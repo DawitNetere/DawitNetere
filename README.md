@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dawit
 - 👀 I’m interested in Front-end engineering
-- 🌱 I’m currently learning software engineering at University of Information Technology and Management in Rzeszow
+- 🌱 I’m currently learning software engineering at the University of Information Technology and Management in Rzeszow
 - 💞️ I’m looking to collaborate on junior web dev projects
 
 <!---
